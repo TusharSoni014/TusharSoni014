@@ -7,4 +7,4 @@
 - ⭐ My Portfolio (Work in Progress): [TusharSoni](https://tusharsoni.com/)
 - ⚡ Fun fact: Im a self taught programmer✌️✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsoni014&layout=compact)]
