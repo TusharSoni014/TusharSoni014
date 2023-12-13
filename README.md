@@ -6,3 +6,5 @@
 - 🧑‍💼 My LinkedIn: [LinkedIn](https://linkedin.com/in/tushar-verma-developer)
 - ⭐ My Portfolio (Work in Progress): [TusharSoni](https://tusharsoni.com/)
 - ⚡ Fun fact: Im a self taught programmer✌️✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)]
