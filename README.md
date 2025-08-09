@@ -9,7 +9,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=tusharsoni014&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
     <a href="https://twitter.com/tusharsoni014" target="_blank"><img src="https://img.shields.io/twitter/follow/tusharsoni014?logo=twitter&style=for-the-badge" alt="twitter" /></a>
-    <a href="https://github.com/tusharsoni014" target="_blank"><img src="https://img.shields.io/badge/GitHub-tusharsoni014-181717?style=for-the-badge&logo=github" alt="github" /></a>
   </p>
 </div>
 
